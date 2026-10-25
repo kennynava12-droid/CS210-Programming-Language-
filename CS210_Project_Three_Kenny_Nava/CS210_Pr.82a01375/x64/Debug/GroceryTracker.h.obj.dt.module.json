@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CS210_Pr.82a01375\\x64\\Debug\\GroceryTracker.obj",
+            "outputs": [
+                "CS210_Pr.82a01375\\x64\\Debug\\GroceryTracker.h.obj.dt.module.json",
+                "CS210_Pr.82a01375\\x64\\Debug\\GroceryTracker.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
